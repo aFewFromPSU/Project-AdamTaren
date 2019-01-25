@@ -15,7 +15,8 @@ public class Model {
     }
     
     public void printHello(){
-        System.out.println("Hello Hello");
+        System.out.print("Hello Hello");
+        //Find my change, Be the change you want to be
     }
     
 }
